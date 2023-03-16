@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Insurance company",
+    "description": "Worked for one of the biggest UK insurers, developed portal for making claims and policy updates",
+    "duration": "3 years",
+    "technology": [
+      "React",
+      "Javascript",
+      "Html5",
+      "Sass",
+      "Guidewire",
+      "AngularJs",
+      "Css3"
+    ]
+  },
+  {
+    "name": "Automation tool",
+    "description": "Worked on automated testing tool",
+    "duration": "half year",
+    "technology": ["Javascript", "Selenium", "Guidewire"]
+  }
+]

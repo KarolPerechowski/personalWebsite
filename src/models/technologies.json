@@ -1,0 +1,26 @@
+[
+  {
+    "name": "html",
+    "path": "../../public/html5.png"
+  },
+  {
+    "name": "sass",
+    "path": "../../public/scss.png"
+  },
+  {
+    "name": "js",
+    "path": "../../public/js.png"
+  },
+  {
+    "name": "react",
+    "path": "../../public/react.svg"
+  },
+  {
+    "name": "angularjs",
+    "path": "../../public/angularjs.png"
+  },
+  {
+    "name": "css",
+    "path": "../../public/css3.png"
+  }
+]
