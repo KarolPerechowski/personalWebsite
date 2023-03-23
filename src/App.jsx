@@ -1,20 +1,15 @@
 import "./App.css";
 import FirstSection from "./components/firstSection.jsx";
-import ProjectsTiles from "./components/projectTiles.jsx";
-import ProjectTile from "./components/projectTiles.jsx";
-import projects from "./models/projects";
+import ProfessionalProjects from "./components/professionalProjects.jsx";
 
 function App() {
-  const projectTiles = projects.map((project) => {
-    <ProjectTile props={project}></ProjectTile>;
-  });
   return (
-    <div>
-      <div className="flex justify-center content items-center h-screen">
+    <div className="flex flex-col items-center">
+      <div className="h-screen min-w-[320px] p-10">
         <FirstSection></FirstSection>
       </div>
-      <div className="flex justify-center content items-center h-screen">
-        <ProjectsTiles></ProjectsTiles>
+      <div className="h-screen min-w-[320px] p-10">
+        <ProfessionalProjects></ProfessionalProjects>
       </div>
     </div>
   );

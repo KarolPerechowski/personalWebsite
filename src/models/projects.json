@@ -17,6 +17,6 @@
     "name": "Automation tool",
     "description": "Worked on automated testing tool",
     "duration": "half year",
-    "technology": ["Javascript", "Selenium", "Guidewire"]
+    "technology": ["Javascript", "Selenium", "Guidewire", "Java"]
   }
 ]

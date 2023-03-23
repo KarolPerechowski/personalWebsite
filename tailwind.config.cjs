@@ -14,6 +14,12 @@ module.exports = {
         "theme-blue-3": "#144272",
         "theme-blue-2": "#205295",
         "theme-blue-1": "#2C74B3",
+        "neon-5": "#6700ff",
+        "neon-4": "	#8a00ff",
+        "neon-3": "	#b700ff",
+        "neon-2": "	#da00ff",
+        "neon-1": "#f500ff",
+
       },
     },
     keyframes: {
